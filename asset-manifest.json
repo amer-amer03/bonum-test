@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/bonum-test/static/css/main.b823bbcc.chunk.css",
-    "main.js": "/bonum-test/static/js/main.3ee753fc.chunk.js",
-    "main.js.map": "/bonum-test/static/js/main.3ee753fc.chunk.js.map",
+    "main.js": "/bonum-test/static/js/main.3b694fc4.chunk.js",
+    "main.js.map": "/bonum-test/static/js/main.3b694fc4.chunk.js.map",
     "runtime-main.js": "/bonum-test/static/js/runtime-main.473dc831.js",
     "runtime-main.js.map": "/bonum-test/static/js/runtime-main.473dc831.js.map",
-    "static/js/2.291c9dbf.chunk.js": "/bonum-test/static/js/2.291c9dbf.chunk.js",
-    "static/js/2.291c9dbf.chunk.js.map": "/bonum-test/static/js/2.291c9dbf.chunk.js.map",
+    "static/js/2.58c2a6d3.chunk.js": "/bonum-test/static/js/2.58c2a6d3.chunk.js",
+    "static/js/2.58c2a6d3.chunk.js.map": "/bonum-test/static/js/2.58c2a6d3.chunk.js.map",
     "static/js/3.89daadc2.chunk.js": "/bonum-test/static/js/3.89daadc2.chunk.js",
     "static/js/3.89daadc2.chunk.js.map": "/bonum-test/static/js/3.89daadc2.chunk.js.map",
     "index.html": "/bonum-test/index.html",
     "static/css/main.b823bbcc.chunk.css.map": "/bonum-test/static/css/main.b823bbcc.chunk.css.map",
-    "static/js/2.291c9dbf.chunk.js.LICENSE.txt": "/bonum-test/static/js/2.291c9dbf.chunk.js.LICENSE.txt"
+    "static/js/2.58c2a6d3.chunk.js.LICENSE.txt": "/bonum-test/static/js/2.58c2a6d3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.473dc831.js",
-    "static/js/2.291c9dbf.chunk.js",
+    "static/js/2.58c2a6d3.chunk.js",
     "static/css/main.b823bbcc.chunk.css",
-    "static/js/main.3ee753fc.chunk.js"
+    "static/js/main.3b694fc4.chunk.js"
   ]
 }
