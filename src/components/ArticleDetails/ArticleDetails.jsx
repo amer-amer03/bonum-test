@@ -27,7 +27,7 @@ const ArticleDetails = () => {
     };
 
     loadArticles();
-  }, []);
+  }, [articleId]);
 
   return (
     <>
