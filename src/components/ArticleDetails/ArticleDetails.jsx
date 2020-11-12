@@ -39,9 +39,11 @@ const ArticleDetails = () => {
           src={articlesData.image}
           alt={articlesData.image}
         />
-        <p className={classes.article__description}>
-          {articlesData.description}
-        </p>
+        <div className={classes.article__description}>
+          <p className={classes.article__descriptionText}>
+            {articlesData.description}
+          </p>
+        </div>
       </div>
       {loading && <p className={classes.spinner}>Loading...</p>}
     </>
