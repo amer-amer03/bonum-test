@@ -7,7 +7,6 @@ const ArticleDetails = () => {
 
   const [articlesData, setArticlesData] = useState([]);
   const [loading, setLoading] = useState(true);
-  console.log(articlesData);
 
   useEffect(() => {
     const loadArticles = async () => {
@@ -21,7 +20,6 @@ const ArticleDetails = () => {
           return data;
         });
       setArticlesData(fetchedData);
-      console.log(fetchedData);
 
       setLoading(false);
     };
@@ -40,9 +38,10 @@ const ArticleDetails = () => {
           alt={articlesData.image}
         />
         <div className={classes.article__description}>
-          <p className={classes.article__descriptionText}>
-            {articlesData.description}
-          </p>
+          <div className={classes.article__descriptionText}>
+            {articlesData.description &&
+              articlesData.description.replace(/(<([^>]+)>)/gi, "")}
+          </div>
         </div>
       </div>
       {loading && <p className={classes.spinner}>Loading...</p>}

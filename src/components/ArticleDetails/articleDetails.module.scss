@@ -23,8 +23,9 @@
     font-weight: 400;
   }
   .article__description {
-    width: 75%;
+    width: 650px;
     margin: 0 auto;
+    padding-bottom: 80px;
   }
   .article__descriptionText {
     line-height: 34px;
@@ -38,7 +39,7 @@
       display: block;
       line-height: 1;
       border-top: 2px solid black;
-      width: 75%;
+      width: 650px;
       margin: 0 auto;
       margin-top: 40px;
       padding-top: 10px;
