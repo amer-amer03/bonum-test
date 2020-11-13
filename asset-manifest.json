@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bonum-test/static/css/main.a8bc7b22.chunk.css",
-    "main.js": "/bonum-test/static/js/main.d0e4d079.chunk.js",
-    "main.js.map": "/bonum-test/static/js/main.d0e4d079.chunk.js.map",
+    "main.js": "/bonum-test/static/js/main.0e5f180d.chunk.js",
+    "main.js.map": "/bonum-test/static/js/main.0e5f180d.chunk.js.map",
     "runtime-main.js": "/bonum-test/static/js/runtime-main.473dc831.js",
     "runtime-main.js.map": "/bonum-test/static/js/runtime-main.473dc831.js.map",
     "static/js/2.e43e6038.chunk.js": "/bonum-test/static/js/2.e43e6038.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.473dc831.js",
     "static/js/2.e43e6038.chunk.js",
     "static/css/main.a8bc7b22.chunk.css",
-    "static/js/main.d0e4d079.chunk.js"
+    "static/js/main.0e5f180d.chunk.js"
   ]
 }
